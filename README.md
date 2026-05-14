@@ -22,9 +22,7 @@ Building intelligent systems with real-world impact — from computer vision and
 
 * Python
 * JavaScript
-* Java
-* SQL
-* Solidity
+
 
 ### AI / ML
 
@@ -42,7 +40,6 @@ Building intelligent systems with real-world impact — from computer vision and
 * Node.js
 * Express.js
 * FastAPI
-* Spring Boot
 * MongoDB
 * MySQL
 
@@ -66,13 +63,7 @@ Real-time wildlife/animal intrusion detection using computer vision with GPS-bas
 
 ---
 
-### 📚 StudyNotion
 
-An online learning platform with authentication, REST APIs, and personalized learning workflows.
-
-**Tech:** Spring Boot, JWT, MongoDB, Payment Integration
-
----
 
 ### 🔍 Forensic Face Generation
 
@@ -82,20 +73,13 @@ Exploring generative AI models including Autoencoders, VAEs, GANs, and Diffusion
 
 ---
 
-## 🌱 Currently Learning
 
-* Advanced Deep Learning
-* AI Model Deployment
-* Open Source Collaboration
-* Scalable Backend Systems
-
----
 
 ## 📫 Connect With Me
 
 * GitHub: [https://github.com/your-username](https://github.com/your-username)
-* LinkedIn: Add your LinkedIn here
-* Email: Add your email here
+* LinkedIn: [Add your LinkedIn here](https://www.linkedin.com/in/rohit-raj-hembram-29a673290/)
+* Email: rohitrajhembram003@gmail.com
 
 ---
 
